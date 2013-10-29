@@ -23,8 +23,8 @@ Followings are the mappings between papers and code file names:
 
 
 
-[1] T. Lappas, K. Liu, and E. Terzi. Finding a team of experts in social networks. In SIGKDD, pages 467每476. ACM, 2009. 
-[2] M. Kargar and A. An. Discovering top-k teams of experts with/without a leader in social networks. In CIKM, pages 985每994. ACM, 2011.
+[1] T. Lappas, K. Liu, and E. Terzi. Finding a team of experts in social networks. In SIGKDD, pages 467-476. ACM, 2009. 
+[2] M. Kargar and A. An. Discovering top-k teams of experts with/without a leader in social networks. In CIKM, pages 985-994. ACM, 2011.
 [3] A. Majumder, S. Datta, and K. Naidu. Capacitated team formation problem on social networks. In SIGKDD, pages 1005每1013. ACM, 2012.
-[4] A. Anagnostopoulos, L. Becchetti, C. Castillo, A. Gionis, and S. Leonardi. Online team formation in social networks. In WWW, pages 839每848. ACM, 2012
-[5] M. Kargar, A. An, and M. Zihayat. Efficient bi-objective team formation in social networks. In ECMLPKDD, pages 483每498. Springer, 2012.
+[4] A. Anagnostopoulos, L. Becchetti, C. Castillo, A. Gionis, and S. Leonardi. Online team formation in social networks. In WWW, pages 839-848. ACM, 2012
+[5] M. Kargar, A. An, and M. Zihayat. Efficient bi-objective team formation in social networks. In ECMLPKDD, pages 483-498. Springer, 2012.
